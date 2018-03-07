@@ -1,6 +1,5 @@
 # exercice-repo
 Repo made for exercice
 
-Conflict
+This will resolve the conflict
 
-asdasdasd
